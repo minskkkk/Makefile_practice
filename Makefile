@@ -1,6 +1,3 @@
-# Makefile Tutorial <Makefile>
-# Written by Minseok Song (2025.01.24)
-
 a.out : a.o b.o main.o
 	gcc -o a.out a.o b.o main.o
     
